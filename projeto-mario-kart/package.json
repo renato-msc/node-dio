@@ -1,0 +1,14 @@
+{
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Projeto de estudo do nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "renato-costa",
+  "license": "ISC",
+  "dependencies": {
+    "primeiro-projeto": "file:"
+  }
+}
